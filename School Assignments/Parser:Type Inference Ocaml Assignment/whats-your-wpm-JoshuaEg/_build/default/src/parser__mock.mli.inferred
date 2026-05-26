@@ -1,0 +1,43 @@
+type token =
+    WHILE
+  | TO
+  | SEMI
+  | RPAREN
+  | READ
+  | RBRACE
+  | PRINT
+  | POW
+  | PLUS
+  | OR
+  | NOT
+  | NE
+  | MULT
+  | MINUS
+  | MAIN
+  | LT
+  | LPAREN
+  | LE
+  | LBRACE
+  | INTTYPE
+  | INT of int
+  | IF
+  | IDENT of string
+  | GT
+  | GE
+  | FROM
+  | FOR
+  | EQUALS
+  | EOF
+  | ELSE
+  | DIV
+  | BOOL of bool
+  | ASSIGNS
+  | AND
+val menhir_begin_marker : int
+val xv_stmtopt : Ast.stmt
+val xv_stmt : Ast.stmt
+val xv_simple_expr : Ast.expr
+val xv_prog : Ast.stmt
+val xv_expr : Ast.expr
+val xv_appl_expr : Ast.expr
+val menhir_end_marker : int

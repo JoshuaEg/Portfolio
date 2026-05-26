@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "684545512799",
+    "firebase_url": "https://terpdash-default-rtdb.firebaseio.com",
+    "project_id": "terpdash",
+    "storage_bucket": "terpdash.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684545512799:android:cef81b546c8fc505b512ea",
+        "android_client_info": {
+          "package_name": "com.example.terpdash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "style.css" type = "text/css">
+    <script src="script.js" defer></script>
+    <title>Tomodachi Create</title>
+</head>
+<body>
+    <header>
+        <div class = "heading">
+                <h1>Tomodachi Test</h1>
+        </div>
+    </header>
+
+    <div class="idinfo defaul" style="margin-top: 2rem;">
+        <form action="/create" method = "post" onsubmit="return preventReplay()">
+            <label for="rname">Name: </label>
+            <input type="text" name="name" id="rname" maxlength="20" pattern="[a-zA-Z1-9 ']+"> <br>
+            <label for="password">Identifier: </label>
+            <input type="password" name="pass" id="password" maxlength="50"> <br> <br>
+            <button type= "button" onclick=" valid()" class="Important" id="res">Begin</button>
+            <br> <br>
+            <div id = "failure" style = "color:red">
+            </div>
+        </form>
+    </div> 
+
+
+    
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "style.css" type = "text/css">
+    <script src="script.js" defer></script>
+    <title>Tomodachi Test</title>
+</head>
+<body>
+    <div>
+        <div class = "heading">
+            <header>
+                    <h1>Tomodachi Test</h1>
+            </header>
+        </div>
+
+        <div id = "continue" class="defaul">
+            <h1 id = resume class = "mainHeading">Resume Responsibilities</h1>
+            <form action="/login" method="post">
+                <label for="rname">Name: </label>
+                <input type="text" name="name" id="rname"> <br>
+                <label for="password">Identifier: </label>
+                <input type="password" name="pass" id="password"> <br> <br>
+                <button class="Important" id="res">Resume</button>
+            </form>
+            <div id = "error_message" style = "color: red">
+                
+            </div>
+        </div>
+        <div id = "or" class="defaul">
+            <h2 >Or</h2>
+            <button class="Important" onclick="window.location.href = 'NewUser.shtml'">
+                Join the Study
+            </button> <br><br>
+            <button id = "wth" class="Important" onclick="explain()">wth is this</button>
+        </div>
+        <div id = "exp" class="defaul" style="margin: 1rem 0rem;"></div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,120 @@
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0), (Binop (Add, (Int 4), Value))))
+student:  (Assign ("x", (Unknown_Type 0), (Binop (Add, (Int 4), Value))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0), (Binop (Add, (Int 4), Value))))
+student:  (Assign ("x", (Unknown_Type 0), (Binop (Add, (Int 4), Value))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0), (Binop (Add, (Int 4), Value))))
+student:  (Assign ("x", (Unknown_Type 0), (Binop (Add, (Int 4), Value))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0), (Binop (Add, (Int 4), Value))))
+student:  (Assign ("x", (Unknown_Type 0), (Binop (Add, (Int 4), Value))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0), (Binop (Add, (Int 4), Value))))
+student:  (Assign ("x", (Unknown_Type 0), (Binop (Add, (Int 4), Value))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0), (Binop (Add, (Int 4), Value))))
+student:  (Assign ("x", (Unknown_Type 0), (Binop (Add, (Int 4), Value))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0), (Binop (Add, (Int 4), Value))))
+student:  (Assign ("x", (Unknown_Type 0), (Binop (Add, (Int 4), Value))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, Value))))))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, (Binop (Add, Value, Value))))))
+   ))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, (Binop (Add, Value, Value))))))
+   ))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, (Binop (Add, Value, Value))))))
+   ))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, (Binop (Add, Value, Value))))))
+   ))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, (Binop (Add, Value, Value))))))
+   ))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, (Binop (Add, Value, Value))))))
+   ))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, (Binop (Add, Value, Value))))))
+   ))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, (Binop (Add, Value, Value))))))
+   ))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, (Binop (Add, Value, Value))))))
+   ))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, (Binop (Add, Value, Value))))))
+   ))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, (Binop (Add, Value, Value))))))
+   ))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, (Binop (Add, Value, Value))))))
+   ))
+[33mASSERT[0m Optimize error:
+expected: (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, (Binop (Add, Value, Value))))))
+   ))
+student:  (Assign ("x", (Unknown_Type 0),
+   (Binop (Add, (Int 4), (Binop (Add, Value, (Binop (Add, Value, Value))))))
+   ))

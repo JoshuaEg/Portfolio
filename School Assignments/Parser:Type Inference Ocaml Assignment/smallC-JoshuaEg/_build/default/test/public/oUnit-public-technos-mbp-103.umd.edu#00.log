@@ -1,0 +1,446 @@
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Runner: processes
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Chooser: simple
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration suite_name = "public"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration cache_filename = "/Users/student/cmsc330spring25/smallC-JoshuaEg/_build/default/test/public/oUnit-$(suite_name).cache"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration run_gc_full_major = "true"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration display = "true"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration results_style_1_X = "false"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration testdata_dir = "/Users/student/cmsc330spring25/smallC-JoshuaEg/_build/default/test/public/data"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration health_check_interval = "1."
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration verbose = "false"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration chooser = "simple"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration output_html_dir = "none"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration processes_kill_period = "5."
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration runner = "processes"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration shards = "2"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration processes_grace_period = "5."
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration log_encoding = "utf-8"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration output_junit_file = "none"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration ci = "false"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Configuration output_file = "/Users/student/cmsc330spring25/smallC-JoshuaEg/_build/default/test/public/oUnit-$(suite_name)-$(shard_id).log"
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Using 2 workers maximum.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Starting worker number technos-mbp-103.umd.edu#01.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Worker technos-mbp-103.umd.edu#01 started.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Starting worker number technos-mbp-103.umd.edu#02.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Worker technos-mbp-103.umd.edu#02 started.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:1:public_parse_assign_exp, public:0:public_parse_assign1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:0:public_parse_assign1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:1:public_parse_assign_exp, public:0:public_parse_assign1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:1:public_parse_assign_exp.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:1:public_parse_assign_exp, public:0:public_parse_assign1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:0:public_parse_assign1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:1:public_parse_assign_exp, public:0:public_parse_assign1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:0:public_parse_assign1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:1:public_parse_assign_exp, public:0:public_parse_assign1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:2:public_parse_define1, public:1:public_parse_assign_exp.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:2:public_parse_define1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:2:public_parse_define1, public:1:public_parse_assign_exp.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:1:public_parse_assign_exp is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:2:public_parse_define1, public:1:public_parse_assign_exp.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:1:public_parse_assign_exp.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:2:public_parse_define1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:2:public_parse_define1, public:1:public_parse_assign_exp.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:2:public_parse_define1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:3:public_parse_equal, public:2:public_parse_define1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:4:public_parse_exp1, public:3:public_parse_equal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:3:public_parse_equal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:4:public_parse_exp1, public:3:public_parse_equal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:4:public_parse_exp1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:4:public_parse_exp1, public:3:public_parse_equal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:4:public_parse_exp1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:4:public_parse_exp1, public:3:public_parse_equal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:4:public_parse_exp1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:4:public_parse_exp1, public:3:public_parse_equal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:5:public_parse_exp2, public:3:public_parse_equal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:5:public_parse_exp2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:5:public_parse_exp2, public:3:public_parse_equal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:3:public_parse_equal is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:5:public_parse_exp2, public:3:public_parse_equal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:3:public_parse_equal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:5:public_parse_exp2, public:3:public_parse_equal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:6:public_parse_greater, public:5:public_parse_exp2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:6:public_parse_greater.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:6:public_parse_greater, public:5:public_parse_exp2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:5:public_parse_exp2 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:6:public_parse_greater, public:5:public_parse_exp2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:5:public_parse_exp2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:6:public_parse_greater, public:5:public_parse_exp2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:7:public_parse_if, public:6:public_parse_greater.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:7:public_parse_if.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:7:public_parse_if, public:6:public_parse_greater.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:6:public_parse_greater is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:7:public_parse_if, public:6:public_parse_greater.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:6:public_parse_greater.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:7:public_parse_if, public:6:public_parse_greater.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:8:public_parse_ifelse, public:7:public_parse_if.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:8:public_parse_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:8:public_parse_ifelse, public:7:public_parse_if.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:7:public_parse_if is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:8:public_parse_ifelse, public:7:public_parse_if.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:7:public_parse_if.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:8:public_parse_ifelse, public:7:public_parse_if.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:9:public_parse_if_else_while, public:8:public_parse_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:9:public_parse_if_else_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:9:public_parse_if_else_while, public:8:public_parse_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:8:public_parse_ifelse is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:9:public_parse_if_else_while, public:8:public_parse_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:8:public_parse_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:9:public_parse_if_else_while, public:8:public_parse_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:10:public_parse_less, public:9:public_parse_if_else_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:10:public_parse_less.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:10:public_parse_less, public:9:public_parse_if_else_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:9:public_parse_if_else_while is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:10:public_parse_less, public:9:public_parse_if_else_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:9:public_parse_if_else_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:10:public_parse_less, public:9:public_parse_if_else_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:11:public_parse_main, public:10:public_parse_less.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:11:public_parse_main.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:11:public_parse_main, public:10:public_parse_less.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:10:public_parse_less is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:11:public_parse_main, public:10:public_parse_less.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:10:public_parse_less.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:11:public_parse_main, public:10:public_parse_less.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:12:public_parse_nested_if, public:11:public_parse_main.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:12:public_parse_nested_if.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:12:public_parse_nested_if, public:11:public_parse_main.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:11:public_parse_main is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:12:public_parse_nested_if, public:11:public_parse_main.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:11:public_parse_main.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:12:public_parse_nested_if, public:11:public_parse_main.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:13:public_parse_nested_ifelse, public:12:public_parse_nested_if.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:13:public_parse_nested_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:13:public_parse_nested_ifelse, public:12:public_parse_nested_if.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:12:public_parse_nested_if is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:13:public_parse_nested_ifelse, public:12:public_parse_nested_if.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:12:public_parse_nested_if.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:13:public_parse_nested_ifelse, public:12:public_parse_nested_if.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:14:public_parse_nested_while, public:13:public_parse_nested_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:14:public_parse_nested_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:14:public_parse_nested_while, public:13:public_parse_nested_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:13:public_parse_nested_ifelse is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:14:public_parse_nested_while, public:13:public_parse_nested_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:13:public_parse_nested_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:14:public_parse_nested_while, public:13:public_parse_nested_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:15:public_parse_print, public:14:public_parse_nested_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:15:public_parse_print.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:15:public_parse_print, public:14:public_parse_nested_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:14:public_parse_nested_while is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:15:public_parse_print, public:14:public_parse_nested_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:14:public_parse_nested_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:15:public_parse_print, public:14:public_parse_nested_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:16:public_parse_test1, public:15:public_parse_print.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:16:public_parse_test1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:16:public_parse_test1, public:15:public_parse_print.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:15:public_parse_print is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:16:public_parse_test1, public:15:public_parse_print.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:15:public_parse_print.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:16:public_parse_test1, public:15:public_parse_print.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:17:public_parse_test2, public:16:public_parse_test1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:17:public_parse_test2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:17:public_parse_test2, public:16:public_parse_test1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:17:public_parse_test2 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:17:public_parse_test2, public:16:public_parse_test1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:17:public_parse_test2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:17:public_parse_test2, public:16:public_parse_test1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:18:public_parse_test3, public:16:public_parse_test1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:18:public_parse_test3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:18:public_parse_test3, public:16:public_parse_test1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:16:public_parse_test1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:18:public_parse_test3, public:16:public_parse_test1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:16:public_parse_test1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:18:public_parse_test3, public:16:public_parse_test1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:19:public_parse_test4, public:18:public_parse_test3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:19:public_parse_test4.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:19:public_parse_test4, public:18:public_parse_test3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:18:public_parse_test3 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:19:public_parse_test4, public:18:public_parse_test3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:18:public_parse_test3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:19:public_parse_test4, public:18:public_parse_test3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:20:public_parse_assoc1, public:19:public_parse_test4.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:20:public_parse_assoc1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:20:public_parse_assoc1, public:19:public_parse_test4.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:19:public_parse_test4 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:20:public_parse_assoc1, public:19:public_parse_test4.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:19:public_parse_test4.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:20:public_parse_assoc1, public:19:public_parse_test4.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:21:public_parse_while, public:20:public_parse_assoc1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:21:public_parse_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:21:public_parse_while, public:20:public_parse_assoc1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:20:public_parse_assoc1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:21:public_parse_while, public:20:public_parse_assoc1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:20:public_parse_assoc1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:21:public_parse_while, public:20:public_parse_assoc1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:22:public_parse_for, public:21:public_parse_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:22:public_parse_for.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:22:public_parse_for, public:21:public_parse_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:21:public_parse_while is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:22:public_parse_for, public:21:public_parse_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:21:public_parse_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:22:public_parse_for, public:21:public_parse_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:23:public_eval_expr_basic, public:22:public_parse_for.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:23:public_eval_expr_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:23:public_eval_expr_basic, public:22:public_parse_for.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:22:public_parse_for is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:23:public_eval_expr_basic, public:22:public_parse_for.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:22:public_parse_for.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:23:public_eval_expr_basic, public:22:public_parse_for.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:24:public_eval_expr_ops, public:23:public_eval_expr_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:24:public_eval_expr_ops.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:24:public_eval_expr_ops, public:23:public_eval_expr_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:23:public_eval_expr_basic is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:24:public_eval_expr_ops, public:23:public_eval_expr_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:23:public_eval_expr_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:24:public_eval_expr_ops, public:23:public_eval_expr_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:25:public_eval_expr_fail, public:24:public_eval_expr_ops.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:25:public_eval_expr_fail.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:25:public_eval_expr_fail, public:24:public_eval_expr_ops.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:24:public_eval_expr_ops is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:25:public_eval_expr_fail, public:24:public_eval_expr_ops.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:24:public_eval_expr_ops.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:25:public_eval_expr_fail, public:24:public_eval_expr_ops.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:26:public_eval_stmt_basic, public:25:public_eval_expr_fail.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:26:public_eval_stmt_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:26:public_eval_stmt_basic, public:25:public_eval_expr_fail.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:25:public_eval_expr_fail is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:26:public_eval_stmt_basic, public:25:public_eval_expr_fail.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:25:public_eval_expr_fail.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:26:public_eval_stmt_basic, public:25:public_eval_expr_fail.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:26:public_eval_stmt_basic is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:27:public_eval_stmt_control, public:26:public_eval_stmt_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:26:public_eval_stmt_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:27:public_eval_stmt_control.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:27:public_eval_stmt_control, public:26:public_eval_stmt_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:28:public_eval_define_1, public:27:public_eval_stmt_control.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:28:public_eval_define_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:28:public_eval_define_1, public:27:public_eval_stmt_control.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:27:public_eval_stmt_control is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:28:public_eval_define_1, public:27:public_eval_stmt_control.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:27:public_eval_stmt_control.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:28:public_eval_define_1, public:27:public_eval_stmt_control.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:28:public_eval_define_1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:29:public_eval_define_2, public:28:public_eval_define_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:28:public_eval_define_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:29:public_eval_define_2, public:28:public_eval_define_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:29:public_eval_define_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:30:public_eval_assign_1, public:29:public_eval_define_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:30:public_eval_assign_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:30:public_eval_assign_1, public:29:public_eval_define_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:30:public_eval_assign_1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:30:public_eval_assign_1, public:29:public_eval_define_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:30:public_eval_assign_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:30:public_eval_assign_1, public:29:public_eval_define_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:31:public_eval_assign_2, public:29:public_eval_define_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:31:public_eval_assign_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:31:public_eval_assign_2, public:29:public_eval_define_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:29:public_eval_define_2 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:31:public_eval_assign_2, public:29:public_eval_define_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:29:public_eval_define_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:31:public_eval_assign_2, public:29:public_eval_define_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:32:public_eval_assign_exp, public:31:public_eval_assign_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:32:public_eval_assign_exp.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:32:public_eval_assign_exp, public:31:public_eval_assign_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:32:public_eval_assign_exp is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:32:public_eval_assign_exp, public:31:public_eval_assign_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:31:public_eval_assign_2 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:32:public_eval_assign_exp.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:32:public_eval_assign_exp, public:31:public_eval_assign_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:31:public_eval_assign_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:33:public_eval_notequal, public:31:public_eval_assign_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:34:public_eval_equal, public:33:public_eval_notequal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:33:public_eval_notequal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:34:public_eval_equal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:34:public_eval_equal, public:33:public_eval_notequal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:33:public_eval_notequal is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:34:public_eval_equal, public:33:public_eval_notequal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:33:public_eval_notequal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:34:public_eval_equal is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:34:public_eval_equal, public:33:public_eval_notequal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:34:public_eval_equal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:35:public_eval_less, public:34:public_eval_equal.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:36:public_eval_exp_1, public:35:public_eval_less.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:35:public_eval_less.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:36:public_eval_exp_1, public:35:public_eval_less.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:36:public_eval_exp_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:36:public_eval_exp_1, public:35:public_eval_less.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:35:public_eval_less is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:36:public_eval_exp_1, public:35:public_eval_less.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:35:public_eval_less.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:36:public_eval_exp_1, public:35:public_eval_less.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:37:public_eval_exp_2, public:36:public_eval_exp_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:37:public_eval_exp_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:37:public_eval_exp_2, public:36:public_eval_exp_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:37:public_eval_exp_2 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:37:public_eval_exp_2, public:36:public_eval_exp_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:37:public_eval_exp_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:37:public_eval_exp_2, public:36:public_eval_exp_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:38:public_eval_exp_3, public:36:public_eval_exp_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:38:public_eval_exp_3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:38:public_eval_exp_3, public:36:public_eval_exp_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:36:public_eval_exp_1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:38:public_eval_exp_3, public:36:public_eval_exp_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:36:public_eval_exp_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:38:public_eval_exp_3, public:36:public_eval_exp_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:39:public_eval_ifelse, public:38:public_eval_exp_3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:39:public_eval_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:39:public_eval_ifelse, public:38:public_eval_exp_3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:38:public_eval_exp_3 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:39:public_eval_ifelse, public:38:public_eval_exp_3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:38:public_eval_exp_3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:39:public_eval_ifelse, public:38:public_eval_exp_3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:40:public_eval_if_else_while, public:39:public_eval_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:39:public_eval_ifelse is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:40:public_eval_if_else_while, public:39:public_eval_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:39:public_eval_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:40:public_eval_if_else_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:40:public_eval_if_else_while, public:39:public_eval_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:41:public_eval_while, public:40:public_eval_if_else_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:41:public_eval_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:41:public_eval_while, public:40:public_eval_if_else_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:40:public_eval_if_else_while is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:41:public_eval_while, public:40:public_eval_if_else_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:40:public_eval_if_else_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:41:public_eval_while, public:40:public_eval_if_else_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:42:public_eval_for, public:41:public_eval_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:42:public_eval_for.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:42:public_eval_for, public:41:public_eval_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:41:public_eval_while is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:42:public_eval_for, public:41:public_eval_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:41:public_eval_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:42:public_eval_for, public:41:public_eval_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:43:public_eval_nested_ifelse, public:42:public_eval_for.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:43:public_eval_nested_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:43:public_eval_nested_ifelse, public:42:public_eval_for.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:42:public_eval_for is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:43:public_eval_nested_ifelse, public:42:public_eval_for.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:42:public_eval_for.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:43:public_eval_nested_ifelse, public:42:public_eval_for.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:44:public_eval_nested_while, public:43:public_eval_nested_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:44:public_eval_nested_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:44:public_eval_nested_while, public:43:public_eval_nested_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:43:public_eval_nested_ifelse is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:44:public_eval_nested_while, public:43:public_eval_nested_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:43:public_eval_nested_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:44:public_eval_nested_while, public:43:public_eval_nested_ifelse.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:45:public_eval_main, public:44:public_eval_nested_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:45:public_eval_main.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:45:public_eval_main, public:44:public_eval_nested_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:44:public_eval_nested_while is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:45:public_eval_main, public:44:public_eval_nested_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:44:public_eval_nested_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:45:public_eval_main, public:44:public_eval_nested_while.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:46:public_eval_test_1, public:45:public_eval_main.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:46:public_eval_test_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:46:public_eval_test_1, public:45:public_eval_main.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:45:public_eval_main is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:46:public_eval_test_1, public:45:public_eval_main.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:45:public_eval_main.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:46:public_eval_test_1, public:45:public_eval_main.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:47:public_eval_test_2, public:46:public_eval_test_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:47:public_eval_test_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:47:public_eval_test_2, public:46:public_eval_test_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:46:public_eval_test_1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:47:public_eval_test_2, public:46:public_eval_test_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:46:public_eval_test_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:47:public_eval_test_2, public:46:public_eval_test_1.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:48:public_eval_test_3, public:47:public_eval_test_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:48:public_eval_test_3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:48:public_eval_test_3, public:47:public_eval_test_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:47:public_eval_test_2 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:48:public_eval_test_3, public:47:public_eval_test_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:47:public_eval_test_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:48:public_eval_test_3, public:47:public_eval_test_2.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:49:public_eval_stmt_fail_basic, public:48:public_eval_test_3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Start test public:49:public_eval_stmt_fail_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:49:public_eval_stmt_fail_basic, public:48:public_eval_test_3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:48:public_eval_test_3 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:49:public_eval_stmt_fail_basic, public:48:public_eval_test_3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:48:public_eval_test_3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:49:public_eval_stmt_fail_basic, public:48:public_eval_test_3.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Still 2 tests running : public:50:public_eval_stmt_fail_control, public:49:public_eval_stmt_fail_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:50:public_eval_stmt_fail_control, public:49:public_eval_stmt_fail_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Start test public:50:public_eval_stmt_fail_control.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Still 2 tests running : public:50:public_eval_stmt_fail_control, public:49:public_eval_stmt_fail_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:50:public_eval_stmt_fail_control, public:49:public_eval_stmt_fail_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: Test public:49:public_eval_stmt_fail_basic is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Still 2 tests running : public:50:public_eval_stmt_fail_control, public:49:public_eval_stmt_fail_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:50:public_eval_stmt_fail_control, public:49:public_eval_stmt_fail_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#01 I: End test public:49:public_eval_stmt_fail_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Still 2 tests running : public:50:public_eval_stmt_fail_control, public:49:public_eval_stmt_fail_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 2 tests running: public:50:public_eval_stmt_fail_control, public:49:public_eval_stmt_fail_basic.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Still 1 tests running : public:50:public_eval_stmt_fail_control.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 1 tests running: public:50:public_eval_stmt_fail_control.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: Test public:50:public_eval_stmt_fail_control is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Still 1 tests running : public:50:public_eval_stmt_fail_control.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 1 tests running: public:50:public_eval_stmt_fail_control.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#02 I: End test public:50:public_eval_stmt_fail_control.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Still 1 tests running : public:50:public_eval_stmt_fail_control.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 1 tests running: public:50:public_eval_stmt_fail_control.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: 0 tests running: .
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Worker technos-mbp-103.umd.edu#01 has ended.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Worker technos-mbp-103.umd.edu#02 has ended.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Used 2 worker during test execution.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Run 26 tests with shard technos-mbp-103.umd.edu#01.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Run 25 tests with shard technos-mbp-103.umd.edu#02.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Check health of shard technos-mbp-103.umd.edu#01, 4 times.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Check health of shard technos-mbp-103.umd.edu#02, 1 times.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: ==============
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Summary:
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:50:public_eval_stmt_fail_control is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:49:public_eval_stmt_fail_basic is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:48:public_eval_test_3 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:47:public_eval_test_2 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:46:public_eval_test_1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:45:public_eval_main is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:44:public_eval_nested_while is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:43:public_eval_nested_ifelse is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:42:public_eval_for is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:41:public_eval_while is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:40:public_eval_if_else_while is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:39:public_eval_ifelse is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:38:public_eval_exp_3 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:36:public_eval_exp_1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:37:public_eval_exp_2 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:35:public_eval_less is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:34:public_eval_equal is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:33:public_eval_notequal is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:31:public_eval_assign_2 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:32:public_eval_assign_exp is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:29:public_eval_define_2 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:30:public_eval_assign_1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:28:public_eval_define_1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:27:public_eval_stmt_control is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:26:public_eval_stmt_basic is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:25:public_eval_expr_fail is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:24:public_eval_expr_ops is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:23:public_eval_expr_basic is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:22:public_parse_for is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:21:public_parse_while is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:20:public_parse_assoc1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:19:public_parse_test4 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:18:public_parse_test3 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:16:public_parse_test1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:17:public_parse_test2 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:15:public_parse_print is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:14:public_parse_nested_while is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:13:public_parse_nested_ifelse is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:12:public_parse_nested_if is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:11:public_parse_main is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:10:public_parse_less is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:9:public_parse_if_else_while is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:8:public_parse_ifelse is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:7:public_parse_if is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:6:public_parse_greater is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:5:public_parse_exp2 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:3:public_parse_equal is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:4:public_parse_exp1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:2:public_parse_define1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:1:public_parse_assign_exp is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Test public:0:public_parse_assign1 is successful.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Ran: 51 tests in: 0.14 seconds.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Cases: 51.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Tried: 51.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Errors: 0.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Failures: 0.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Skip: 0.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Todo: 0.
+2025-03-31T16:55:25+00:00 technos-mbp-103.umd.edu#00 I: Timeout: 0.

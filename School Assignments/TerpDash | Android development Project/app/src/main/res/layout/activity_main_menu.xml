@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="#1A1A2E"
+    android:padding="24dp">
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TERP DASH"
+        android:textSize="42sp"
+        android:textColor="#E94560"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-black"
+        android:layout_marginBottom="16dp" />
+
+    <ImageView
+        android:id="@+id/circlePreview"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginBottom="40dp" />
+
+    <EditText
+        android:id="@+id/usernameEditText"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter username"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#AAAAAA"
+        android:backgroundTint="#FFFFFF"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnPlay"
+        android:layout_width="220dp"
+        android:layout_height="56dp"
+        android:text="PLAY"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#E94560"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnLeaderboard"
+        android:layout_width="220dp"
+        android:layout_height="56dp"
+        android:text="LEADERBOARD"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#0F3460"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnSkins"
+        android:layout_width="220dp"
+        android:layout_height="56dp"
+        android:text="SKINS"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#0F3460"
+        android:layout_marginBottom="16dp" />
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adBanner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-3940256099942544/6300978111" />
+
+</LinearLayout>

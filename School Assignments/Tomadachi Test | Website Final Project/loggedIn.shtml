@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tomodachi Test</title>
+    <link rel = "stylesheet" href = "style.css" type = "text/css">
+    
+    <script src="gameCode.js" defer></script>
+</head>
+<body>
+    <div>
+        <div class = "heading">
+            <header>
+                    <h1>Tomodachi Test</h1>
+            </header>
+        </div>
+        <div class ="box" id="window">
+            <h2>Explanation:</h2>
+            <p id="explain"></p>
+            <button onclick="advance()">advance</button>
+        </div>
+        <h1 class = "mainHeading">Domain of <span class="username"></span></h1>
+       <div id="child" class="defaul" >
+            <h2 id="feedName">Feed Child</h2>
+                <strong>Child's Name</strong> <br>
+                <input type="text" name="child" id="childname"> <br>
+                <button type="button" onclick="feedKid()">Feed Your Kid</button>
+                <button type="button" onclick = "dispKid()">Or just display ig</button>
+                <p id = "err" style = "color: red"></p>
+            
+            <div id="disp">
+                <p>
+                    <strong>CHILD FED</strong><br>
+                    <span id="childDisp">A</span> <br><br>
+                    <span class="label">Days Lasted: </span><span id="lasted"></span> <br><br>
+                    <span class="label">Is Even?: </span><span class="isEven">idk</span> <br>
+                    <span class="unimportant"> 
+                        Ad: <span id="ad">idk</span>
+                        <button class="unimportant" onclick="slide()">ads????</button>
+                    </span><br>
+                    <button onclick="trigger()">close</button> 
+                </p>
+            </div>
+                <strong>Make a New Life</strong> <br>
+                <input type="text" name="birth" id="childbirth" maxlength="20"><br>
+                <button type="button" onclick="makeKid()">Create New Life</button><br><br>
+                <span class="btw" id="name2">btw, if you name a kid the same as another kid, it will die</span>
+            
+       </div>
+       <div id="urStats" class="defaul">
+            <h2>Days Since Last Casualty</h2>
+            <h2 class="num" id="since">0</h2>
+            <h3>Win Total Ratio</h3>
+            <p>
+                <b><span class = "num"><span id="alive">0</span>/<span id="total">0</span></span></b><br><br>
+                <span class="btw"><span id = "judgement">0 out of 0, wow, how impressive</span></span>
+            </p>
+       </div>
+       <div>
+        <form action="/game/logout">
+            <button  class="Important">Logout</button>
+        </form>
+       </div>
+
+    </div>
+
+
+
+    
+</body>
+</html>

@@ -1,0 +1,4 @@
+(test
+ (name student)
+
+(libraries P5 alcotest testUtils))

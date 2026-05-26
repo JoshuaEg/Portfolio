@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../335"
+		},
+		{
+			"path": "../../../../Applications/XAMPP/xamppfiles/htdocs/AjaxCode"
+		},
+		{
+			"path": "../../Task2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Task2"
+	}
+}

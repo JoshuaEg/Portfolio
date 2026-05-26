@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&family=Orbitron:wght@400..900&family=Unica+One&display=swap');
+
+html{
+    font-size: 24px;
+
+    text-align: center;
+  
+    
+    background-image: url(space_ig.png);
+    background-size: cover;
+    background-attachment: fixed;
+  
+}
+body{
+    margin: 0;
+    margin-top: 0;
+    
+  
+}
+h1, h2, h3{
+    font-family: Michroma, sans-serif;
+}
+
+header h1 {
+    font-size: 1rem;
+    font-family: Unica One, sans-serif;
+}
+
+.heading {
+
+    background-color: rgb(146, 129, 208);
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    padding-top: .01px;
+    padding-bottom: .01px;
+    
+}
+
+.mainHeading{
+    color:rgb(255, 181, 22);
+    
+}
+
+.num{
+    color: rgb(255, 181, 22);
+    font-size: 48px;
+    font-family: Orbitron, sans-serif;
+}
+
+
+
+h2, h3{
+    color: rgb(248, 241, 255);
+}
+
+#window, #window h2 {
+    color: black;
+    font-family: Orbitron, sans-serif;
+}
+
+.defaul{
+    background-color: rgba(158, 158, 158, 0.699);
+    margin: 0rem 15%;
+    border-radius: 20px;
+    font-family: Orbitron, sans-serif;
+}
+
+.Important {
+    height: 3rem;
+    width: 12rem;
+    font-size: 1.5rem;
+}
+.Impose {
+    height: 5rem;
+    width: 15rem;
+    font-size: 1.5rem;
+}
+#exp {
+    margin-left: 10em;
+    margin-right: 10em;
+}
+
+#disp{
+    height: 0px;
+    justify-content: center;
+    overflow: hidden;
+    transition: height 200ms ease-in-out;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#disp.trigger{
+    height: 280px;
+}
+#lasted, .isEven, #childDisp{
+    font-weight: bold;
+    color: rgb(170, 207, 255);
+}
+
+.label, label{
+    font-weight: bold;
+    color: rgb(226, 229, 39);
+}
+
+#continue, #or {
+    padding-bottom: 2rem;
+}
+#name2{
+    font-size: .9rem;
+}
+
+.btw{
+    color: rgb(255, 179, 179);
+}
+
+#child strong{
+    color:rgb(255, 199, 134)
+}
+.unimportant{
+    font-size: .5rem;
+}
+
+#window{
+    position: absolute;
+    border: solid black 4px;
+    background: wheat;
+    padding: 0rem 2rem 2rem 2rem;
+    z-index: 99;
+    top: -50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: top 700ms ease-in-out;
+}
+
+#window p{
+    height: 3rem;
+}
+
+
+#window.slide{
+    top: 50%
+}

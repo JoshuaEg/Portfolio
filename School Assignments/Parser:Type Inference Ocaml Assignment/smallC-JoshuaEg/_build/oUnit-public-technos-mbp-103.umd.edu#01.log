@@ -1,0 +1,78 @@
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:0:public_parse_assign1.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:0:public_parse_assign1: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:0:public_parse_assign1.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:2:public_parse_define1.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:2:public_parse_define1: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:2:public_parse_define1.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:3:public_parse_equal.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:3:public_parse_equal: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:3:public_parse_equal.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:5:public_parse_exp2.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:5:public_parse_exp2: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:5:public_parse_exp2.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:7:public_parse_if.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:7:public_parse_if: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:7:public_parse_if.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:9:public_parse_if_else_while.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:9:public_parse_if_else_while: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:9:public_parse_if_else_while.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:10:public_parse_less.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:10:public_parse_less: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:10:public_parse_less.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:13:public_parse_nested_ifelse.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:13:public_parse_nested_ifelse: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:13:public_parse_nested_ifelse.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:14:public_parse_nested_while.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:14:public_parse_nested_while: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:14:public_parse_nested_while.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:16:public_parse_test1.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:16:public_parse_test1: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:16:public_parse_test1.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:18:public_parse_test3.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:18:public_parse_test3: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:18:public_parse_test3.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:20:public_parse_assoc1.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:20:public_parse_assoc1: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:20:public_parse_assoc1.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:23:public_eval_expr_basic.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:23:public_eval_expr_basic: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:23:public_eval_expr_basic.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:24:public_eval_expr_ops.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:24:public_eval_expr_ops: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:24:public_eval_expr_ops.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:26:public_eval_stmt_basic.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:26:public_eval_stmt_basic: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:26:public_eval_stmt_basic.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:29:public_eval_define_2.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:29:public_eval_define_2: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:29:public_eval_define_2.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:30:public_eval_assign_1.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:30:public_eval_assign_1: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:30:public_eval_assign_1.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:33:public_eval_notequal.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:33:public_eval_notequal: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:33:public_eval_notequal.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:34:public_eval_equal.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:34:public_eval_equal: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:34:public_eval_equal.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:37:public_eval_exp_2.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:37:public_eval_exp_2: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:37:public_eval_exp_2.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:38:public_eval_exp_3.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:38:public_eval_exp_3: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:38:public_eval_exp_3.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:41:public_eval_while.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:41:public_eval_while: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:41:public_eval_while.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:42:public_eval_for.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:42:public_eval_for: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:42:public_eval_for.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:45:public_eval_main.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:45:public_eval_main: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:45:public_eval_main.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:46:public_eval_test_1.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:46:public_eval_test_1: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:46:public_eval_test_1.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: Start test public:49:public_eval_stmt_fail_basic.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 W: Skip test public:49:public_eval_stmt_fail_basic: Test disabled.
+2025-03-30T21:39:14+00:00 technos-mbp-103.umd.edu#01 I: End test public:49:public_eval_stmt_fail_basic.

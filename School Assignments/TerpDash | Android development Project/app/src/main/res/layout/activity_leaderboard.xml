@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="#1A1A2E"
+    android:padding="24dp">
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/leaderboardTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LEADERBOARD"
+        android:textSize="36sp"
+        android:textColor="#E94560"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-black"
+        android:layout_marginBottom="32dp" />
+
+    <TextView
+        android:id="@+id/leaderboardTextView"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:text="Loading leaderboard..."
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:lineSpacingExtra="10dp"
+        android:background="#0F3460"
+        android:padding="20dp" />
+
+    <Button
+        android:id="@+id/btnBackLeaderboard"
+        android:layout_width="220dp"
+        android:layout_height="56dp"
+        android:text="BACK"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#E94560"
+        android:layout_marginTop="32dp" />
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>

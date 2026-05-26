@@ -1,0 +1,3 @@
+This assignment had us code optimizing, typechecking, and type inferencing for an abstract syntax tree (the one from smaalC). My code is all located in sanalysis.ml in the functions optimize, typecheck, and infer.
+
+The most complex assignment I've ever had to work on and is representative of my most complex thinking. Each function is broken up into multiple functions that help process a specific task.
